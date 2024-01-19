@@ -1,0 +1,22 @@
+#hex-code{
+  font-family: 'Roboto Mono', 'Railway'
+}
+
+.colour-btn {
+  font-family: 'Railway', 'Roboto Mono';
+}
+
+.container{
+  width: 95%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.hex-colours{
+  text-align: center;
+  padding-top: 30%;
+}
+
+
