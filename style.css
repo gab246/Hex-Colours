@@ -19,4 +19,12 @@
   padding-top: 30%;
 }
 
-
+@media(max-width:580px){
+  #hex-code{
+    font-size: 20px;
+  }
+  .colour-btn {
+    font-size: 15px;
+    padding: 4px 3px;
+  }
+}
